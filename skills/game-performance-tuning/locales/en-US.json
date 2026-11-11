@@ -1,0 +1,4 @@
+{
+  "displayName": "Game & System Performance Tuning",
+  "brief": "Windows game FPS and system responsiveness optimization: bottleneck diagnosis, staged tuning, verified rollback; read-only by default; writes need itemized confirmation and verifiable backup"
+}
