@@ -7,39 +7,39 @@
       "files": [
         {
           "path": "game-performance-tuning/ITEMS.md",
-          "sha256": "3357231f04946a00ac997003cc7ae5a608adee05381a1fad29eb0418cf89ed08"
+          "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
         },
         {
           "path": "game-performance-tuning/PROMPT.md",
-          "sha256": "46f04a91d643afad1358977b3eb8aa582929f4d638b2487d23cee16ab19a692a"
+          "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
         },
         {
           "path": "game-performance-tuning/README.md",
-          "sha256": "9db76a6efc76d30d32d39edf6fb6d6d34416932b0c0e1021296993820235f5d0"
+          "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
         },
         {
           "path": "game-performance-tuning/SAFETY.md",
-          "sha256": "a58dbf0b93bedf198d6fc6af731c390957e17819f285f1e3c7e2055dddabce5e"
+          "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
         },
         {
           "path": "game-performance-tuning/SKILL.md",
-          "sha256": "44a3909c8570e57df5cd3d563d8421904b4293880ab2b47043a40baf2031dd64"
+          "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
         },
         {
           "path": "game-performance-tuning/locales/en-US.json",
-          "sha256": "0905fee825a52d2271e2dc3bcbf4a35393b506c7ee4bcbe056f4cc7ce921053a"
+          "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
         },
         {
           "path": "game-performance-tuning/locales/zh-CN.json",
-          "sha256": "5f26624ef8f39806ed25a16020ad19f42f673ebfb83a7cc83b88e7fc555e4326"
+          "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
         },
         {
           "path": "game-performance-tuning/scripts/collect-baseline.ps1",
-          "sha256": "e5298991a95ec70b5291b33cd9ec1f7ef0d52e0018525377516fa41dc0b9768a"
+          "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
         },
         {
           "path": "game-performance-tuning/scripts/collect-diagnostics.ps1",
-          "sha256": "ea42da6f2b45afb318b719c436f9936df97b48b10788fc8939edb51d093bbb99"
+          "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
         }
       ]
     }
